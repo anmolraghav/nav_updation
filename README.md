@@ -1,1 +1,1 @@
-have created mavbar according to figma designs.
+have created navbar according to figma designs.
