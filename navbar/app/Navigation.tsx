@@ -31,7 +31,7 @@ const Navigation = () => {
     })
 
   return (
-    <div className={header ? "  fixed w-[100%] bg-[#5c3939]" : "bg-[black]" }>
+    <div className={header ? "  fixed w-[100%] bg-[black]" : "bg-[gray]" }>
 
    <nav className=" flex h-118px w-300
    py-5 justify-around px-6  gap-400px shrink-0">

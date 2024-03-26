@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <header className="h-[80px] bg-white">
+        <header className="h-[100px] bg-white">
          <Navigation />
         </header>
         <p>
